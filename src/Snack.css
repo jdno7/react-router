@@ -1,0 +1,12 @@
+.Snack {
+    width: 80%;
+    height: 20%;
+    background-color: silver; 
+    margin: 5% auto;
+}
+
+.Snack-link {
+    font-size: 3em;
+    height:100%;
+    margin-top: auto;
+}
